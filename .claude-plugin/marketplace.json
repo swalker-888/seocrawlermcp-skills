@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "seocrawlermcp",
+  "description": "SEO Crawler MCP: technical SEO audits inside Claude Code.",
+  "owner": { "name": "SEO Crawler MCP", "email": "hello@seocrawlermcp.com" },
+  "plugins": [
+    {
+      "name": "seo-crawler",
+      "description": "Crawl any public website and audit its technical SEO: indexability, redirects, canonicals, sitemaps, hreflang, JavaScript rendering and AI crawler access. Adds the SEO Crawler MCP server and five audit skills.",
+      "source": "./",
+      "category": "development",
+      "homepage": "https://seocrawlermcp.com"
+    }
+  ]
+}

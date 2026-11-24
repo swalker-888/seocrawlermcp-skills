@@ -1,0 +1,23 @@
+{
+  "name": "seo-crawler",
+  "version": "0.1.0",
+  "description": "Technical SEO audits from Claude Code: connects the SEO Crawler MCP server (a hosted crawler) and adds skills for full-site audits, JavaScript rendering checks, AI crawler access, scheduled monitoring and fixing issues in your code.",
+  "author": {
+    "name": "SEO Crawler MCP",
+    "url": "https://seocrawlermcp.com"
+  },
+  "homepage": "https://seocrawlermcp.com",
+  "repository": "https://github.com/swalker-888/seocrawlermcp-skills",
+  "license": "MIT",
+  "keywords": [
+    "seo",
+    "technical-seo",
+    "seo-audit",
+    "crawler",
+    "mcp",
+    "javascript-seo",
+    "ai-crawlers"
+  ],
+  "privacyPolicyUrl": "https://seocrawlermcp.com/privacy",
+  "icon": ".claude-plugin/icon.png"
+}

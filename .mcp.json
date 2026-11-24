@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "seocrawlermcp": {
+      "type": "http",
+      "url": "https://seocrawlermcp.com/api/mcp"
+    }
+  }
+}
